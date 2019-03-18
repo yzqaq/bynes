@@ -1,0 +1,19 @@
+P(Burglar | Earthquake=true)
+
+P(John | Alarm=true)
+
+P(John | Alarm=true, Mary=true)
+
+P(John | Alarm=true)
+
+P(Burglar)
+
+P(Alarm | Burglar=true, Earthquake=true)
+
+P(Burglar | Alarm=true)
+
+P(Alarm | Earthquake=true, Burglar=true)
+
+P(Burglar | John=true, Mary=false)
+
+P(Burglar | Alarm=true, Earthquake=true)

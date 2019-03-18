@@ -1,0 +1,1 @@
+P(Burglar | John=true, Mary=false)
